@@ -12,3 +12,6 @@
 1. 下载 [Zip包](./build.zip)
 1. 解压并部署到服务器，支持静态网页即可
 
+## Thanks
+
+1. 本项目参考了 [AgentGPT](https://github.com/reworkd/AgentGPT) 的[提示词](https://github.com/reworkd/AgentGPT/blob/main/platform/reworkd_platform/web/api/agent/prompts.py)，故按 GPTv3 协议，开源[本项目的提示词](./prompt.js)
