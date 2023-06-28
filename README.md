@@ -7,10 +7,17 @@
 1. 在线版本 <https://d.level06.com> (如果无法访问，请到官方仓库查看新域名)
 1. 独立部署版下载 <https://github.com/easychen/deepgpt-dist/build.zip>
 
+
 ## 独立部署
 
 1. 下载 [Zip包](./build.zip)
 1. 解压并部署到服务器，支持静态网页即可
+
+## 更新日志
+
+### 1.0.2 添加余额显示和任务停止按钮
+
+![](images/20230628132904.png)
 
 ## Thanks
 
