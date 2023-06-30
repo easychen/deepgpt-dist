@@ -11,6 +11,10 @@
 
 请移步B站 <https://www.bilibili.com/video/BV1As4y1k73M>
 
+## Vercel 一键部署
+
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Feasychen%2Fdeepgpt-dist.git)
+
 
 ## 独立部署
 
