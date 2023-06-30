@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="512" height="512" viewBox="0 0 512 512">
+  <defs>
+    <clipPath id="clip-iPhone_12_12_Pro_14">
+      <rect width="512" height="512"/>
+    </clipPath>
+  </defs>
+  <g id="iPhone_12_12_Pro_14" data-name="iPhone 12、12 Pro – 14" clip-path="url(#clip-iPhone_12_12_Pro_14)">
+    <g id="组_1" data-name="组 1" transform="translate(-24.707 -27.726)">
+      <g id="组_1-2" data-name="组 1" transform="translate(64 49)">
+        <path id="路径_1" data-name="路径 1" d="M497.414,379.117V186.384a36.118,36.118,0,0,0-17.935-31.163L307.919,55.378a54.109,54.109,0,0,0-54.448,0L81.935,155.221A36.118,36.118,0,0,0,64,186.384V379.117A36.118,36.118,0,0,0,81.935,410.3l171.56,99.843a54.177,54.177,0,0,0,54.448,0L479.5,410.3A36.118,36.118,0,0,0,497.414,379.117Z" transform="translate(-64 -48.03)" fill="#54acf7" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="20"/>
+      </g>
+    </g>
+    <text id="D" transform="translate(137 365)" fill="#fff" font-size="308" font-family="GurmukhiMN, Gurmukhi MN"><tspan x="0" y="0">D</tspan></text>
+  </g>
+</svg>
