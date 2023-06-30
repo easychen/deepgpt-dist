@@ -7,6 +7,10 @@
 1. 在线版本 <https://d.level06.com> (如果无法访问，请到官方仓库查看新域名)
 1. 独立部署版下载 <https://github.com/easychen/deepgpt-dist/build.zip>
 
+## 使用教学
+
+请移步B站 <https://www.bilibili.com/video/BV1As4y1k73M>
+
 
 ## 独立部署
 
